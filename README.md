@@ -11,7 +11,7 @@ A Simple  Skeleton Loader with Skimmer effect in React Native  :fire: :rocket: :
 
 ### Installation
 ```js
-npm i react-native-skeleton-skimmer --save
+npm i react-native-skeleton-skimmer
 cd ios && pod install
 cd android && ./gradlew clean
 ```
