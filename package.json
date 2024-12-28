@@ -1,7 +1,7 @@
 {
   "name": "react-native-skeleton-skimmer",
   "version": "1.0.0",
-  "description": "React Native UI Indicators / Loaders",
+  "description": "React Native Skeleton Skimmer",
   "files": [
     "dist",
     "README.md"
