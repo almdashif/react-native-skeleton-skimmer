@@ -1,2 +1,3 @@
-import SkeletonSkimmer from './Components/SkeletonSkimmer'
-export default SkeletonSkimmer
+import SkeletonSkimmer, { EanimationType } from './Components/SkeletonSkimmer';
+export default SkeletonSkimmer;
+export { EanimationType };
