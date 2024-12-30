@@ -1,6 +1,6 @@
 {
   "name": "react-native-skeleton-skimmer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native Skeleton Skimmer",
   "files": [
     "dist",
@@ -18,16 +18,16 @@
     "url": "git+https://github.com/almdashif/react-native-skeleton-skimmer"
   },
   "keywords": [
-    "android",
-    "ios",
-    "react-native",
-    "react-native-cli",
     "react-native-skeleton-skimmer",
     "react-native-skeleton-loader",
     "react-native-skeleton",
     "react-native-skimmer",
     "react-native-skimmers",
-    "react-native-loader"
+    "react-native-loader",
+    "android",
+    "ios",
+    "react-native",
+    "react-native-cli"
   ],
   "author": "Mohammed Ashif AL",
   "license": "MIT",
